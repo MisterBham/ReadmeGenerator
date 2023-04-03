@@ -1,6 +1,8 @@
 # ReadMe Generator
 ![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
-Place Screenshot of Application here 
+
+![Final generated readme](./images/readme-generator.jpg)
+![Example Application Workflow](./images/example-process.jpg)
 
 ## Table of Contents 
 * [Description](#Description) 
