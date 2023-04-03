@@ -85,7 +85,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'github-un',
+        name: 'githubUn',
         message: 'Provide your GitHub username',
         validate: (input) => {
             if(input == "") {
