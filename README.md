@@ -23,9 +23,9 @@ Command Line Node application that generates a professional readme based upon th
 npm install
 
 ### Usage
-Through NodeJS, using specifically inquirer. 
-See sample created readme file <a href="./Develop/example-README.md">here</a>.
-See sample video <a href="https://drive.google.com/file/d/1SnhBYBarDqrJgarqy9oQO5H36mk4nlyH/view">here</a>.
+Through NodeJS, using specifically inquirer. <br />
+See sample created readme file <a href="https://github.com/MisterBham/ReadmeGenerator/blob/main/Develop/example-README.md">here</a>.<br />
+See sample video <a href="https://drive.google.com/file/d/1SnhBYBarDqrJgarqy9oQO5H36mk4nlyH/view">here</a>.<br />
 Examples of created readme and example workflow below. 
 
 ### License
@@ -41,5 +41,5 @@ No tests included
 Should you have any further questions, please reach the developer at: MisterBham@developer.net. 
 
 ### Examples:
-<img src="./Develop/images/readme-generator.jpg" width=35% height=35%>
-<img src="./Develop/images/example-process.jpg" width=35% height=35%>
+<img src="./Develop/images/readme-generator.jpg" width=50% height=50%>
+<img src="./Develop/images/example-process.jpg" width=50% height=50%>
