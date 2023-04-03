@@ -41,5 +41,5 @@ No tests included
 Should you have any further questions, please reach the developer at: MisterBham@developer.net. 
 
 ### Examples:
-<img src="./Develop/images/readme-generator.jpg" width=35% height=35%>
-<img src="./Develop/images/example-process.jpg" width=35% height=35%>
+<img src="./Develop/images/readme-generator.jpg" width=50% height=50%>
+<img src="./Develop/images/example-process.jpg" width=50% height=50%>
