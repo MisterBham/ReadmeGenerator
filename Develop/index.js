@@ -111,7 +111,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(data) {
-    fs.writeFile('createdReadMe/README.md', data, (err) => err ? console.log(err) : console.log('Your README was successfully created! You can find it in your root folder.'))
+    fs.writeFile('createdReadMe/README.md', data, (err) => err ? console.log(err) : console.log('Your README was successfully created! You can find it in the createdReadMe folder.'))
 }
 
 // TODO: Create a function to initialize app
