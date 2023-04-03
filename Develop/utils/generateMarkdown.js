@@ -162,7 +162,8 @@ function generateMarkdown(data) {
 
     // Questions
     readme += '### ' + mdSections[6] + '\n';
-    readme += 'Should you have any further questions, please reach the developer at: ' + data.userEmail + '. \n'
+    readme += data.githubUn + "- Check them out on their [GitHub page](https://github.com/" + data.githubUn + ')\n';
+    readme += 'Should you have any further questions, please reach the developer at: ' + data.userEmail + '. \n';
     readme += '\n';
 
     // Return built readme

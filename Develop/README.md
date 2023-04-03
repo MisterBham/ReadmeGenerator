@@ -24,17 +24,17 @@ Command Line Node application that generates a professional readme based upon th
 npm install
 
 ### Usage
-To create easy but professional quality readme's. See sample video <a href="#">here</a>.
+To create easy but professional quality readme's. See sample video <a href="https://drive.google.com/file/d/1SnhBYBarDqrJgarqy9oQO5H36mk4nlyH/view">here</a>.
 
 ### License
 Further information regarding this specific license can be found via: https://opensource.org/license/mit/. 
 
 ### Contributing
-Create your own branch, request pull request. Upon approval, code base will be improved. 
+Please post <a href="https://github.com/MisterBham/ReadmeGenerator/issues">Issues</a> on the repo!
 
 ### Testing
 No tests included
 
 ### Questions
-Should you have any further questions, please reach the developer at: brianjhamlin@gmail.com. 
+Should you have any further questions, please reach the developer at: MisterBham@developer.net. 
 
