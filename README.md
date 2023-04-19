@@ -38,7 +38,7 @@ Please post <a href="https://github.com/MisterBham/ReadmeGenerator/issues">Issue
 No tests included
 
 ### Questions
-Should you have any further questions, please reach the developer at: MisterBham@developer.net. 
+Should you have any further questions, please reach the developer at: misterbham.dev@gmail.com. 
 
 ### Examples:
 <img src="./Develop/images/readme-generator.jpg" width=50% height=50%>
