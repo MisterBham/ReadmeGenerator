@@ -116,13 +116,6 @@ function generateMarkdown(data) {
     // Title
     let readme = '# ' + data.title + '\n';
 
-    // License Badge
-    readme += '![License Badge](' + renderLicenseBadge(data.license) + ')' + '\n';
-
-    // Screenshot 
-    readme += '[Place Screenshot of Application here] \n';
-    readme += '\n';
-
     // Table of Contents
     readme += '## Table of Contents \n';
     for (let i = 0; i < mdSections.length; i++) {
@@ -147,7 +140,8 @@ function generateMarkdown(data) {
 
     // License
     readme += '### ' + mdSections[3] + '\n';
-    readme += renderLicenseSection(data.license);
+    readme += renderLicenseSection(data.license) + '\n';
+    readme += '![License Badge](' + renderLicenseBadge(data.license) + ')' + '\n';
     readme += '\n';
 
     // Contributing
